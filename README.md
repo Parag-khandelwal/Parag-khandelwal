@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Parag-khandelwal
-- 👀 I’m interested in Coding
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Tailwind CSS
 - 📫 How to reach me parag.khandelwal2003@gmail.com 
 
