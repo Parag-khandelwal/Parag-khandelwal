@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parag-khandelwal
 - 📫 How to reach me parag.khandelwal2003@gmail.com / khandelwalparag025@gmail.com
-- linkedIn : www.linkedin.com/in/parag-khandelwal-479b91223
+- linkedIn : www.linkedin.com/in/paragkhandelwal2003
 
 
 <!---
